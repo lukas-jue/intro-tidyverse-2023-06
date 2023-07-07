@@ -18,7 +18,7 @@ knitr::include_graphics("images/sales-1.png")
 ```
 
 ```{r}
-
+#fill in code here
 ```
 
 -   **Stretch goal:** Manipulate the sales data such such that it looks like the following.

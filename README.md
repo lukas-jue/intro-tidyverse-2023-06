@@ -55,5 +55,5 @@ In the last three years, your trainers have developed and taught TechAcademy's D
 They use data science methods and R daily in their academic and non-academic jobs.
 
 -   [Lukas Jürgensmeier](https://lukas-juergensmeier.com), M.Sc., PhD Student in Quantitative Marketing and Member of the Executive Board at TechAcademy e.V.
--   [Lara Zaremba](https://www.linkedin.com/in/lara-zaremba/), M.Sc., Trainee Data Science at the European Central Bank (ECB) and former R Teacher and Course Designer at TechAcademy e.V.
--   [Karlo Lukic](https://www.marketing.uni-frankfurt.de/en/professoren/skiera/team/doctoral-students/karlo-lukic.html), M.Sc., PhD Student in Quantitative Marketing, former R Teacher and Course Designer at TechAcademy e.V.
+-   [Matteo Fina](https://www.marketing.uni-frankfurt.de/professoren/otter/wissenschaftliche-mitarbeiter/matteo-fina.html), M.Sc., PhD Student at GSEFM in Economics
+-   Jan Bischoff, Business and Economics Student, R/Python Teacher and Course Designer at TechAcademy e.V.

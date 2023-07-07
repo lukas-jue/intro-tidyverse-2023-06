@@ -8,7 +8,7 @@ We aim for you to code such a visualization from scratch at the end of our cours
 To reach that goal, we will --- step by step --- introduce you to the most relevant facets of Data Science with R and the Tidyverse.
 
 ::: rstudio-cloud
-The Posit Cloud (formerly RStudio Cloud) workspace containing the application exercises is [here](https://posit.cloud/spaces/322662).
+The Posit Cloud (formerly RStudio Cloud) workspace containing the application exercises is [here](https://posit.cloud/spaces/389550).
 If you haven't already registered for Posit Cloud and joined the workspace, please do so now.
 Be sure to register through the link sent to you via e-mail since we purchased a Posit Cloud premium version for this course.
 :::
