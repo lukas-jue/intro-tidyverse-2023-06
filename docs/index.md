@@ -18,7 +18,7 @@ Welcome to the course website for
 
 **Introduction to Data Science with R and Tidyverse**
 
-offered for GRADE Brain and other GRADE Centers at Goethe University in January 2023.
+offered for GRADE Brain and other GRADE Centers at Goethe University in July 2023.
 This website serves as the central repository for all course materials.
 Here, you will find all slides, lecture materials, and links to your online development environment.
 
@@ -82,17 +82,18 @@ We will send out detailed instructions and an invitation link in advance.
 
 ## Course Organization
 
-We will meet on July 12th 2023 from 09:00 a.m.
-- 04:00 p.m in Seminarhaus, room 5.106 on Campus Westend ([see map](https://www.wiwi.uni-frankfurt.de/fileadmin/user_upload/dateien_pruefungsamt/Pruefungsorganisation/Lageplan_Campus_Westend.pdf)).
-A rough time table, depending on our progress:
+We will meet on July 12th 2023 from 09:00 -- 17:00 in Seminarhaus, room 5.106 on Campus Westend ([see map](https://www.wiwi.uni-frankfurt.de/fileadmin/user_upload/dateien_pruefungsamt/Pruefungsorganisation/Lageplan_Campus_Westend.pdf)).
+Here is a rough timetable, depending on our progress:
 
-| Part  | Date       | Time          |
-|-------|------------|---------------|
-| 1     | 12.07.2023 | 09:00 - 10:45 |
-| break |            | 20 to 30min.  |
-| 2     | 12.07.2023 | 11:15 - 13:00 |
-| lunch |            | 13:00 - 14:00 |
-| 3     | 12.07.2023 | 14:00 - 15:45 |
+| Part            | Time           |
+|-----------------|----------------|
+| Workshop Part 1 | 09:00 -- 10:30 |
+| *Coffee Break*  | 10:30 -- 11:00 |
+| Workshop Part 2 | 11:00 -- 12:30 |
+| *Lunch Break*   | 12:30 -- 13:30 |
+| Workshop Part 3 | 13:30 -- 15:00 |
+| *Coffee Break*  | 15:00 -- 15:30 |
+| Workshop Part 4 | 15:30 -- 17:00 |
 
 We want you to *make your hands dirty* --- that means we want you to code!
 Just following along fancy slides won't magically transfer the skill of coding to you.
@@ -100,15 +101,16 @@ But you actively engaging with the course content in your development environmen
 
 That's why we need you to prepare accordingly:
 
--   Try to follow the course with two screens or two devices (one for Zoom and the slides, and one for your browser with Posit Cloud)
--   Please create a [Posit Cloud](https://posit.cloud/) (formerly RStudio Cloud) account before the first class. We have sent you a link to access all exercises on Posit Cloud. Since we want you to start coding very early on in the first class, please ensure that you can access those course materials on Posit Cloud before our first meeting.
+Please create a [Posit Cloud](https://posit.cloud/) (formerly RStudio Cloud) account before the first class.
+We have sent you a link to access all exercises on Posit Cloud.
+Since we want you to start coding very early on in the first class, please ensure that you can access those course materials on Posit Cloud before our first meeting.
 
 If you have any questions, please reach out to one of us through the e-mail addresses on the bottom of this page.
 
 ## Schedule
 
 This workshop alternates between lecture-style presentations and application exercises.
-In those hands-on exercises, you will actively try out the discussed tools and techniques in Zoom breakout rooms.
+In those hands-on exercises, you will actively try out the discussed tools in small groups and with suppport from the teachers.
 We aim to adhere to the following schedule.
 Depending on our progress, we may discuss some parts a bit earlier or later during the course.
 
@@ -118,19 +120,19 @@ Depending on our progress, we may discuss some parts a bit earlier or later duri
 | 1    | First data visualization: UN Votes | Application Exercise |
 | 1    | Meet the programming toolkit       | Lecture              |
 | 1    | The Bechdel Test + R Markdown      | Application Exercise |
-| 1    | Data and visualization             | Lecture              |
-| 1    | Visualizing data with ggplot2      | Lecture              |
+| 2    | Data and visualization             | Lecture              |
+| 2    | Visualizing data with ggplot2      | Lecture              |
 | 2    | Visualizing categorical data       | Lecture              |
 | 2    | StarWars + Dataviz                 | Application Exercise |
-| 2    | Tidy data                          | Lecture              |
-| 2    | Grammar of data wrangling          | Lecture              |
-| 2    | Working with a single data frame   | Lecture              |
-| 2    | Hotels + Data wrangling            | Application Exercise |
-| 3    | Working with multiple data frames  | Lecture              |
-| 3    | Data types                         | Lecture              |
-| 3    | Importing data                     | Lecture              |
-| 3    | Nobels + Sales + Data import       | Application Exercise |
-| 3    | Fitting and interpreting models    | Lecture              |
+| 3    | Tidy data                          | Lecture              |
+| 3    | Grammar of data wrangling          | Lecture              |
+| 3    | Working with a single data frame   | Lecture              |
+| 3    | Hotels + Data wrangling            | Application Exercise |
+| 4    | Working with multiple data frames  | Lecture              |
+| 4    | Data types                         | Lecture              |
+| 4    | Importing data                     | Lecture              |
+| 4    | Nobels + Sales + Data import       | Application Exercise |
+| 4    | Fitting and interpreting models    | Lecture              |
 
 ## Readings
 
@@ -163,6 +165,8 @@ Visit [here](https://github.com/rstudio-education/datascience-box/blob/master/LI
 ## Acknowledgements {.unnumbered}
 
 The course is built upon material from [datasciencebox.org](https://datasciencebox.org/) by Mine Çetinkaya-Rundel.
+
+We acknowledge generous financial support for teaching this course through a DigiTeLL grant (project "Coding Intro").
 
 Thanks to the #rstats education community who have made numerous suggestions for this resource, Lee Suddaby and Zeno Kujawa, for converting the homework assignments to learnr tutorials and [Müge Çetinkaya](http://muge.fr/) for the hex logo!
 
